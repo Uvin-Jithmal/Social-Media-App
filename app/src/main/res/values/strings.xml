@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Comment</string>
+    <string name="font_size_50px">Font size 50px</string>
+    <string name="Edit_comment">Edit Comment</string>
+    <string name="Delete_Comment">Delete Comment</string>
+    <string name="Like">Like</string>
+    <string name="Comment">Comment</string>
+    <string name="Enter_Comment">Enter Comment...</string>
+    <string name="MoreBtn">more</string>
+    <string name="Send">Send</string>
+
+</resources>
