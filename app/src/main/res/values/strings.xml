@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Social Media</string>
+    <string name="login">Login</string>
+    <string name="loginbutton">Login</string>
+    <string name="forgetpw">Forget Password</string>
+    <string name="email">Mail</string>
+    <string name="pass">Password</string>
+    <string name="noacc">Not Have An Account</string>
+
+    <string name="reg">Register</string>
+    <string name="regbtn">Register</string>
+    <string name="alreadyhaveacc">Already Have an account</string>
+    <string name="but1">Home</string>
+    <string name="btn2">Profile</string>
+    <string name="btn3">Comminunity</string>
+    <string name="edit">edit</string>
+</resources>
+
+
+
